@@ -1,0 +1,15 @@
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\bin\Debug\net6.0\LINQ_CONCEPTS.exe
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\bin\Debug\net6.0\LINQ_CONCEPTS.deps.json
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\bin\Debug\net6.0\LINQ_CONCEPTS.runtimeconfig.json
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\bin\Debug\net6.0\LINQ_CONCEPTS.dll
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\bin\Debug\net6.0\LINQ_CONCEPTS.pdb
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.csproj.AssemblyReference.cache
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.AssemblyInfoInputs.cache
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.AssemblyInfo.cs
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.csproj.CoreCompileInputs.cache
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.dll
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\refint\LINQ_CONCEPTS.dll
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.pdb
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\LINQ_CONCEPTS.genruntimeconfig.cache
+C:\Training\LINQ_CONCEPTS\LINQ_CONCEPTS\obj\Debug\net6.0\ref\LINQ_CONCEPTS.dll
